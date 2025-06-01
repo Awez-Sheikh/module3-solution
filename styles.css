@@ -1,0 +1,15 @@
+.navbar-collapse.collapse.in {
+  background-color: #eeeeee; /* Make it more distinct if needed */
+  width: 100%;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.navbar-collapse.in a {
+  display: block;
+  padding: 10px 0;
+  font-weight: bold;
+}
+.navbar-collapse.in a:hover {
+  background-color: #dddddd; /* Lighter hover effect */
+}
